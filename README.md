@@ -11,7 +11,7 @@ class STEIN:
     age       = 18
     craft     = ["Python", "tools", "utilities"]
     mode      = "learning things"
-    telegram  = "t.me/rejerk"
+    telegram  = "t.me/rejerk" 
 ```
 
 <br/><br/>
